@@ -9,7 +9,7 @@ This is a boilerplate code inspired from [spring multi-module project](https://s
     Child1 POM: `application/pom.xml`
         Rest controller application logic, which is dependent on Child2
     
-    Child1 POM: `views/pom.xml`
+    Child2 POM: `views/pom.xml`
         views contain only services used by Child1
 
 ## Dependencies
